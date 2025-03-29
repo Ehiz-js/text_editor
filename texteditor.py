@@ -1,4 +1,4 @@
-#SIMPLE TEXT EDITOR
+#SIMPLE TEXT EDITOR APP
 import os
 from cProfile import label
 from idlelib.outwin import file_line_pats
